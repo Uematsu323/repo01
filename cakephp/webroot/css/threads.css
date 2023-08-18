@@ -1,0 +1,14 @@
+
+.form {
+	width: 45%;
+}
+.comments {
+	width: 45%;
+}
+.contents {
+	display: flex;
+	justify-content: space-evenly;
+}
+.like-area {
+	display: flex;
+}

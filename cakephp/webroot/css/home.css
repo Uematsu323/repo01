@@ -238,3 +238,7 @@ hr {
         max-width: 940px;
     }
 }
+
+.form {
+    width: 80px;
+}

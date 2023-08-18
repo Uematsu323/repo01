@@ -398,6 +398,7 @@ legend {
 
 textarea {
     overflow: auto;
+    width: 10px;
 }
 
 /**

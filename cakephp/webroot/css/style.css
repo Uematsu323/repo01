@@ -29,6 +29,10 @@ header {
     box-shadow: 0px 1px rgba(0, 0, 0, 0.24);
 }
 
+.header-name {
+    color: white;
+}
+
 header .header-title {
     padding-left:80px
 }
